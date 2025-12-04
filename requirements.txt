@@ -1,0 +1,5 @@
+flask
+cohere
+gunicorn
+scikit-learn
+python-dotenv
